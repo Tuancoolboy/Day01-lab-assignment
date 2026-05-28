@@ -18,6 +18,12 @@ python template.py
 ```
 Bạn sẽ thấy output so sánh phản hồi của GPT-4o và GPT-4o-mini.
 
+**Kết quả chạy `python template.py`:**
+
+![Kết quả so sánh GPT-4o và GPT-4o-mini](https://drive.google.com/thumbnail?id=116tzkiqR6FeClYkWoiutzD55oZtmi8q_&sz=w1000)
+
+[Xem ảnh trên Google Drive](https://drive.google.com/file/d/116tzkiqR6FeClYkWoiutzD55oZtmi8q_/view?usp=sharing)
+
 ---
 
 ## Phần 2 — Bài Tập Mở Rộng (1:00–1:30)
